@@ -1,0 +1,12 @@
+*.csv
+*.mat
+.DS_Store
+*.jpeg
+*.pdf
+*.png
+*.tiff
+*.txt
+__pycache__
+.ipynb_checkpoints
+Untitled.ipynb
+temp.ipynb
